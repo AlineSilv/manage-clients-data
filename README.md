@@ -2,21 +2,37 @@
 
 ![Mix All](https://github.com/user-attachments/assets/97ff1fe3-d1f5-4f56-969a-f627de47a81f)
 
-📌**ACESSO RÁPIDO** :
 
-[**FIGMA**](https://www.figma.com/design/qyyP7NAxYQ74uK41qh5LK9/GerenciadorApp?node-id=21-2804&t=nAeJJDPrkRKrucpz-1)
+## 🛠️ Guia Do Projeto
 
-[**READMEFRONT**](https://github.com/AlineSilv/GerenciadorCheckIn/blob/main/front/README.md)
+1. **Configuração do Ambiente Spring**
+   Consulte as [Anotações de Construção do Ambiente Spring](https://www.notion.so/Anota-es-de-Constru-o-do-Ambiente-Spring-1459f9faccaa814ba5a1de81077ca5c0?pvs=21) para configurar o ambiente.
 
-[**READMEBACK**](https://github.com/AlineSilv/GerenciadorCheckIn/blob/main/crud/README.md)
+2. **Documentação da API**
+   Consulte as [Anotações de Construção da API](https://www.notion.so/Anota-es-de-Constru-o-da-API-1459f9faccaa8040a5d5c6ab20d1eaaa?pvs=21) para detalhes sobre o desenvolvimento da API.
 
-[**READMEPRINCIPAL**](https://github.com/AlineSilv/GerenciadorCheckIn/blob/main/README.md)
+3. **Roteiro de Testes**
+    Consulte o [Guia de Testes do Projeto Spring](https://www.notion.so/Guia-de-Testes-do-Projeto-Spring-1459f9faccaa8091849cede6983d80b2?pvs=4) para detalhes sobre como testar todos os endpoints da API.
 
-[**GUIA**](https://www.notion.so/Guia-de-Planejamento-Projeto-Spring-1429f9faccaa80659012d27096b42499)
+4. **Figma Layout**
+  Consulte o [Figma](https://www.figma.com/design/qyyP7NAxYQ74uK41qh5LK9/GerenciadorApp?node-id=21-2804&t=nAeJJDPrkRKrucpz-1) para acompanhar as lógicas e detalhes para o desenvolvimento do layout do projeto, vizualizar as telas e todas as referências.
+
+---
 
 ## 📋 Sobre o Projeto
 
+Consulte o [Guia de Planejamento e Produção do Spring](https://www.notion.so/Guia-de-Planejamento-Projeto-Spring-1429f9faccaa80659012d27096b42499) foi criado para obter todas as informações referente ao projeto de forma completa.
+
 Este projeto é um desafio final que aplica os conceitos aprendidos durante o curso **Spring Boot Expert: JPA, RESTFul API, Security, JWT**. Ele consiste em desenvolver uma aplicação back-end para gerenciamento de endereços, contemplando o cadastro de:
+
+**Acesse o ReadMe Principal**
+Acesse o [ReadMe Principal](https://github.com/AlineSilv/GerenciadorCheckIn/blob/main/README.md) para acompanhar as requisições de planejamento e produção que envolvem os requisitos que condicionam do projeto.
+
+ **Acesse o ReadMe do Front End**
+   Acesse o [ReadMe do Front End](https://github.com/AlineSilv/GerenciadorCheckIn/blob/main/front/README.md) para compreensão dos detalhes técnicos que sucedem a clonagem e implementação do mesmo.
+
+ **Acesse o ReadMe do Back End**
+   Acesse o [ReadMe do Back End](https://github.com/AlineSilv/GerenciadorCheckIn/blob/main/crud/README.md) para compreensão de detalhes técnicos que implicam a clonagem e implementação do Back End.
 
 - **Endereços**
 - **Pessoas**
@@ -50,18 +66,6 @@ O objetivo é consolidar os conhecimentos adquiridos, abordar práticas de model
 - Hibernate (ORM)
 - JDBC (Java Database Connectivity)
 
----
-
-## 🛠️ Como Configurar o Ambiente
-
-1. **Configuração do Ambiente Spring**
-   Consulte as [Anotações de Construção do Ambiente Spring](https://www.notion.so/Anota-es-de-Constru-o-do-Ambiente-Spring-1459f9faccaa814ba5a1de81077ca5c0?pvs=21) para configurar o ambiente.
-
-2. **Documentação da API**
-   Consulte as [Anotações de Construção da API](https://www.notion.so/Anota-es-de-Constru-o-da-API-1459f9faccaa8040a5d5c6ab20d1eaaa?pvs=21) para detalhes sobre o desenvolvimento da API.
-
-3. **Roteiro de Testes**
-    Consulte o [Guia de Testes do Projeto Spring](https://www.notion.so/Guia-de-Testes-do-Projeto-Spring-1459f9faccaa8091849cede6983d80b2?pvs=4) para detalhes sobre como testar todos os endpoints da API.
 ---
 
 ## 📂 Estrutura do Projeto

@@ -1,5 +1,7 @@
 
-## 📌 Layout do Projeto
+## 👩‍🎨 Layout do Projeto
+
+
 
 [**FIGMA**](https://www.figma.com/design/qyyP7NAxYQ74uK41qh5LK9/GerenciadorApp?node-id=21-2804&t=nAeJJDPrkRKrucpz-1)
 
@@ -7,7 +9,7 @@ Este projeto é uma aplicação front-end construída com **React** e **TypeScri
 
 ---
 
-## 📌 Inicialização do Projeto
+## ⚙️ Configurações Iniciais Para o Projeto
 
 ### Pré-requisitos
 
@@ -35,7 +37,8 @@ O projeto será iniciado em http://localhost:3000.
 
 ---
 
-🛠️ Principais Tecnologias e Ferramentas
+## 🛠️ Principais Tecnologias e Ferramentas
+
 React: Biblioteca para construção de interfaces reativas.
 TypeScript: Tipagem estática para JavaScript, garantindo mais segurança e produtividade.
 Styled Components: Solução para estilização utilizando CSS-in-JS.

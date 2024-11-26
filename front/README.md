@@ -6,7 +6,7 @@ Este projeto é uma aplicação front-end construída com **React** e **TypeScri
 
 ### Pré-requisitos
 
-Antes de iniciar, certifique-se de ter o **Node.js** instalado em sua máquina. Recomendamos a versão **16** ou superior.
+Antes de iniciar, certifique-se de ter o **Node.js** instalado em sua máquina. 
 
 ### Instalação
 

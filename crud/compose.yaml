@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  oracle-db:
+    image: gvenzl/oracle-xe:21-slim  #Imagem para o docker
+    container_name: oracle-db
+    environment:
+      ORACLE_PASSWORD: "java"
+      ORACLE_DATABASE: "cjava2024"  # Inserção do Nome banco
+    ports:
+      - "1521:1521"                      # Porta padrão do Oracle
+      - "5500:5500"                      # Porta para Enterprise Manager
+    volumes:
+      - oracle-data:/opt/oracle/oradata  # Volume persistente para os dados
+    restart: unless-stopped
+
+volumes:
+  oracle-data:

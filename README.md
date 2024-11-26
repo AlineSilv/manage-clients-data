@@ -1,8 +1,8 @@
 # ☕ CRUD Java com Spring - Desafio Final
 
 ACESSO RÁPIDO : 
-**README - [Front End**](https://github.com/AlineSilv/GerenciadorCheckIn/blob/main/front/README.md)
-**README - [Back End**]()
+**README** - [Front End](https://github.com/AlineSilv/GerenciadorCheckIn/blob/main/front/README.md)
+**README** - [Back End](https://github.com/AlineSilv/GerenciadorCheckIn/blob/main/crud/README.md)
 
 ## 📋 Sobre o Projeto
 

@@ -2,9 +2,17 @@
 
 ![Mix All](https://github.com/user-attachments/assets/97ff1fe3-d1f5-4f56-969a-f627de47a81f)
 
-ACESSO RÁPIDO : 
-**README** - [Front End](https://github.com/AlineSilv/GerenciadorCheckIn/blob/main/front/README.md)
-**README** - [Back End](https://github.com/AlineSilv/GerenciadorCheckIn/blob/main/crud/README.md)
+📌**ACESSO RÁPIDO** :
+
+[**FIGMA**](https://www.figma.com/design/qyyP7NAxYQ74uK41qh5LK9/GerenciadorApp?node-id=21-2804&t=nAeJJDPrkRKrucpz-1)
+
+[**READMEFRONT**](https://github.com/AlineSilv/GerenciadorCheckIn/blob/main/front/README.md)
+
+[**READMEBACK**](https://github.com/AlineSilv/GerenciadorCheckIn/blob/main/crud/README.md)
+
+[**READMEPRINCIPAL**](https://github.com/AlineSilv/GerenciadorCheckIn/blob/main/README.md)
+
+[**GUIA**](https://www.notion.so/Guia-de-Planejamento-Projeto-Spring-1429f9faccaa80659012d27096b42499)
 
 ## 📋 Sobre o Projeto
 

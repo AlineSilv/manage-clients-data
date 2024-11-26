@@ -1,4 +1,4 @@
-# 🚀 CRUD Java com Spring - Desafio Final
+# ☕ CRUD Java com Spring - Desafio Final
 
 ## 📋 Sobre o Projeto
 

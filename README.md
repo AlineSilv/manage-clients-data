@@ -4,11 +4,8 @@
 
 Este projeto é um desafio final que aplica os conceitos aprendidos durante o curso **Spring Boot Expert: JPA, RESTFul API, Security, JWT**. Ele consiste em desenvolver uma aplicação back-end para gerenciamento de endereços, contemplando o cadastro de:
 
-- **UF**
-- **Município**
-- **Bairro**
-- **Endereço**
-- **Pessoa** (com possibilidade de múltiplos endereços por pessoa)
+- **Endereços**
+- **Pessoa**
 
 O objetivo é consolidar os conhecimentos adquiridos, abordar práticas de modelagem de dados e criar uma API robusta utilizando as tecnologias do ecossistema Spring.
 
@@ -49,6 +46,8 @@ O objetivo é consolidar os conhecimentos adquiridos, abordar práticas de model
 2. **Documentação da API**
    Consulte as [Anotações de Construção da API](https://www.notion.so/Anota-es-de-Constru-o-da-API-1459f9faccaa8040a5d5c6ab20d1eaaa?pvs=21) para detalhes sobre o desenvolvimento da API.
 
+3. **Roteiro de Testes**
+    Consulte o [Guia de Testes do Projeto Spring](https://www.notion.so/Guia-de-Testes-do-Projeto-Spring-1459f9faccaa8091849cede6983d80b2?pvs=4) para detalhes sobre como testar todos os endpoints da API.
 ---
 
 ## 📂 Estrutura do Projeto

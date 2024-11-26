@@ -5,7 +5,7 @@
 Este projeto é um desafio final que aplica os conceitos aprendidos durante o curso **Spring Boot Expert: JPA, RESTFul API, Security, JWT**. Ele consiste em desenvolver uma aplicação back-end para gerenciamento de endereços, contemplando o cadastro de:
 
 - **Endereços**
-- **Pessoa**
+- **Pessoas**
 
 O objetivo é consolidar os conhecimentos adquiridos, abordar práticas de modelagem de dados e criar uma API robusta utilizando as tecnologias do ecossistema Spring.
 

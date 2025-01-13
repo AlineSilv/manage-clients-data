@@ -2,6 +2,7 @@
 
 ![Mix All](https://github.com/user-attachments/assets/97ff1fe3-d1f5-4f56-969a-f627de47a81f)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ewg-YlAz2FQ?si=wluIEJA7XNMgHwK2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 🛠️ Guia Do Projeto
 

@@ -1,6 +1,10 @@
 # ☕ CRUD Java com Spring - Desafio Final
 
-![Mix All](https://github.com/user-attachments/assets/97ff1fe3-d1f5-4f56-969a-f627de47a81f)
+![ThumbnailVideo](https://github.com/user-attachments/assets/29b0c460-f058-40f6-9368-601fb2f51ddc)
+
+
+[![Mix All](https://github.com/user-attachments/assets/97ff1fe3-d1f5-4f56-969a-f627de47a81f)](https://youtu.be/ewg-YlAz2FQ?si=LIQaH2J967R4bU6b)
+Clique na imagem acima para assistir ao video caso se interesse.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ewg-YlAz2FQ?si=wluIEJA7XNMgHwK2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

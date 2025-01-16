@@ -2,9 +2,11 @@
 
 [![ThumbnailVideo](https://github.com/user-attachments/assets/3b9831da-1d4b-41f6-b52f-3371a6e770c6)](https://youtu.be/ewg-YlAz2FQ?si=LIQaH2J967R4bU6b)
 
-# 📹 Clique na imagem acima para assistir ao video caso se interesse.
+# 📹 Clique na imagem acima para assistir ao video caso realmente se interesse pelos materiais referentes ao projeto.
 
-![Mix All](https://github.com/user-attachments/assets/97ff1fe3-d1f5-4f56-969a-f627de47a81f)
+[![Mix All](https://github.com/user-attachments/assets/97ff1fe3-d1f5-4f56-969a-f627de47a81f)](https://www.figma.com/proto/qyyP7NAxYQ74uK41qh5LK9/GerenciadorApp?node-id=21-2804&t=cfufQFOyWlgCrMvc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+
+# 🖼️ Clique na imagem acima para acessar o projeto Figma.
 
 ## 🛠️ Guia Do Projeto
 

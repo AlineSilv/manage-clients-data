@@ -1,26 +1,22 @@
-# ☕ CRUD Spring e React - Desafio Final
+# ☕ CRUD Spring e React 
+
 
 [![ThumbnailVideo](https://github.com/user-attachments/assets/3b9831da-1d4b-41f6-b52f-3371a6e770c6)](https://youtu.be/ewg-YlAz2FQ?si=LIQaH2J967R4bU6b)
 
-# 📹 Clique na imagem acima para assistir ao video caso realmente se interesse pelos materiais referentes ao projeto.
+[![Youtube Badge](https://img.shields.io/badge/-AlineSilva-black?style=flat-square&logo=youtube&logoColor=white&link=https://youtu.be/ewg-YlAz2FQ)](https://youtu.be/ewg-YlAz2FQ)
 
 [![Mix All](https://github.com/user-attachments/assets/97ff1fe3-d1f5-4f56-969a-f627de47a81f)](https://www.figma.com/proto/qyyP7NAxYQ74uK41qh5LK9/GerenciadorApp?node-id=21-2804&t=cfufQFOyWlgCrMvc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
-# 🖼️ Clique na imagem acima para acessar o projeto Figma.
+[![Figma](https://img.shields.io/badge/figma-black.svg?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/proto/qyyP7NAxYQ74uK41qh5LK9/GerenciadorApp?node-id=21-2804&t=cfufQFOyWlgCrMvc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
-## 🛠️ Guia Do Projeto
+| **🛠️ Guia Do Projeto**               |                                                                                                           |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Configuração do Ambiente Spring**  | Consulte as [Anotações de Construção do Ambiente Spring](https://www.notion.so/Anota-es-de-Constru-o-do-Ambiente-Spring-1459f9faccaa814ba5a1de81077ca5c0?pvs=21) para configurar o ambiente. <br> [![Notion](https://img.shields.io/badge/notion-black.svg?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Anota-es-de-Constru-o-do-Ambiente-Spring-1459f9faccaa814ba5a1de81077ca5c0?pvs=21) |
+| **Documentação da API**              | Consulte as [Anotações de Construção da API](https://www.notion.so/Anota-es-de-Constru-o-da-API-1459f9faccaa8040a5d5c6ab20d1eaaa?pvs=21) para detalhes sobre o desenvolvimento da API. <br> [![Notion](https://img.shields.io/badge/notion-black.svg?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Anota-es-de-Constru-o-da-API-1459f9faccaa8040a5d5c6ab20d1eaaa?pvs=21) |
+| **Roteiro de Testes**                | Consulte o [Guia de Testes do Projeto Spring](https://www.notion.so/Guia-de-Testes-do-Projeto-Spring-1459f9faccaa8091849cede6983d80b2?pvs=4) para detalhes sobre como testar todos os endpoints da API. <br> [![Notion](https://img.shields.io/badge/notion-black.svg?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Guia-de-Testes-do-Projeto-Spring-1459f9faccaa8091849cede6983d80b2?pvs=4) |
+| **Figma Layout**                     | Consulte o [Figma](https://www.figma.com/design/qyyP7NAxYQ74uK41qh5LK9/GerenciadorApp?node-id=21-2804&t=nAeJJDPrkRKrucpz-1) para acompanhar as lógicas e detalhes para o desenvolvimento do layout do projeto, visualizar as telas e todas as referências. <br> [![Figma](https://img.shields.io/badge/figma-black.svg?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/design/qyyP7NAxYQ74uK41qh5LK9/GerenciadorApp?node-id=21-2804&t=nAeJJDPrkRKrucpz-1) |
+| **Video Tour do Projeto**            | Consulte o [Video Tour do Projeto Completo](youtube) para ter uma demonstração completa do que foi realizado. <br> [![Youtube Badge](https://img.shields.io/badge/-AlineSilva-black?style=flat-square&logo=youtube&logoColor=white&link=https://youtu.be/ewg-YlAz2FQ)](youtube) |
 
-1. **Configuração do Ambiente Spring**
-   Consulte as [Anotações de Construção do Ambiente Spring](https://www.notion.so/Anota-es-de-Constru-o-do-Ambiente-Spring-1459f9faccaa814ba5a1de81077ca5c0?pvs=21) para configurar o ambiente.
-
-2. **Documentação da API**
-   Consulte as [Anotações de Construção da API](https://www.notion.so/Anota-es-de-Constru-o-da-API-1459f9faccaa8040a5d5c6ab20d1eaaa?pvs=21) para detalhes sobre o desenvolvimento da API.
-
-3. **Roteiro de Testes**
-    Consulte o [Guia de Testes do Projeto Spring](https://www.notion.so/Guia-de-Testes-do-Projeto-Spring-1459f9faccaa8091849cede6983d80b2?pvs=4) para detalhes sobre como testar todos os endpoints da API.
-
-4. **Figma Layout**
-  Consulte o [Figma](https://www.figma.com/design/qyyP7NAxYQ74uK41qh5LK9/GerenciadorApp?node-id=21-2804&t=nAeJJDPrkRKrucpz-1) para acompanhar as lógicas e detalhes para o desenvolvimento do layout do projeto, vizualizar as telas e todas as referências.
 
 ---
 

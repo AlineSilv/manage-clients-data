@@ -101,6 +101,18 @@ A aplicação segue uma abordagem modular e organizada, contemplando:
 
 ---
 
+## 🤝 Contribuição
+
+Contribuições são bem-vindas! Siga os passos abaixo para colaborar:
+
+1. Fork o repositório
+2. Crie uma branch com sua feature: `git checkout -b minha-feature`
+3. Faça commit das alterações: `git commit -m 'Adicionei uma nova feature'`
+4. Envie a branch: `git push origin minha-feature`
+5. Abra um Pull Request
+   
+---
+
 ## 📄 Referências e Materiais de Apoio
 
 ### Curso de Base

@@ -24,7 +24,7 @@
 
 </div>
 
-| **🛠️ Guia Do Projeto**               |                                                                                                           |
+| **Guia Do Projeto**               |                                                                                                           |
 |--------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | **Configuração do Ambiente Spring**  | Consulte as [Anotações de Construção do Ambiente Spring](https://www.notion.so/Anota-es-de-Constru-o-do-Ambiente-Spring-1459f9faccaa814ba5a1de81077ca5c0?pvs=21) para configurar o ambiente. <br> [![Notion](https://img.shields.io/badge/notion-black.svg?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Anota-es-de-Constru-o-do-Ambiente-Spring-1459f9faccaa814ba5a1de81077ca5c0?pvs=21) |
 | **Documentação da API**              | Consulte as [Anotações de Construção da API](https://www.notion.so/Anota-es-de-Constru-o-da-API-1459f9faccaa8040a5d5c6ab20d1eaaa?pvs=21) para detalhes sobre o desenvolvimento da API. <br> [![Notion](https://img.shields.io/badge/notion-black.svg?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Anota-es-de-Constru-o-da-API-1459f9faccaa8040a5d5c6ab20d1eaaa?pvs=21) |

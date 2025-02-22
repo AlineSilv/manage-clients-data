@@ -1,13 +1,28 @@
-# ☕ CRUD Spring e React 
+![BannerHeaderProjeto](https://github.com/user-attachments/assets/d84be01a-3436-465d-87aa-5dfadd1086ee)
 
+<div align="center">
+   
+[![LinkedIn](https://img.shields.io/badge/linkedin-black.svg?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/alinealv-silv) [![GitHub](https://img.shields.io/badge/github-black.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/AlineSilv) [![Gmail Badge](https://img.shields.io/badge/-alinealv.silv@gmail.com-181717?style=flat-square&logo=Gmail&logoColor=white)](mailto:alinealv.silv@gmail.com)
 
-[![ThumbnailVideo](https://github.com/user-attachments/assets/3b9831da-1d4b-41f6-b52f-3371a6e770c6)](https://youtu.be/ewg-YlAz2FQ?si=LIQaH2J967R4bU6b)
+</div>
 
-[![Youtube Badge](https://img.shields.io/badge/-AlineSilva-black?style=flat-square&logo=youtube&logoColor=white&link=https://youtu.be/ewg-YlAz2FQ)](https://youtu.be/ewg-YlAz2FQ)
+>[!IMPORTANT]
+> ## Comunicado Importante - Sinta-se a vontade para colaborar com o projeto ou enviar dúvidas e fazer contato!
+> **Contribuições são bem vindas:** Peço que siga os passos abaixo para colaborar!
 
-[![Mix All](https://github.com/user-attachments/assets/97ff1fe3-d1f5-4f56-969a-f627de47a81f)](https://www.figma.com/proto/qyyP7NAxYQ74uK41qh5LK9/GerenciadorApp?node-id=21-2804&t=cfufQFOyWlgCrMvc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+>[!TIP]
+> ## Passos para Contribuir
+> 1. **Fork** o repositório
+> 2. Crie uma branch com sua feature: `git checkout -b minha-feature`
+> 3. Faça commit das alterações: `git commit -m 'Adicionei uma nova feature'`
+> 4. Envie a branch: `git push origin minha-feature`
+> 5. Abra um **Pull Request**
 
-[![Figma](https://img.shields.io/badge/figma-black.svg?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/proto/qyyP7NAxYQ74uK41qh5LK9/GerenciadorApp?node-id=21-2804&t=cfufQFOyWlgCrMvc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Projeto+Spring+E+React;Gerenciamento+Clientes+E+Endereços)
+
+</div>
 
 | **🛠️ Guia Do Projeto**               |                                                                                                           |
 |--------------------------------------|-----------------------------------------------------------------------------------------------------------|
@@ -19,6 +34,8 @@
 
 
 ---
+
+![GifMaterialTecnico](https://github.com/user-attachments/assets/4a86de42-3398-4abf-9fca-92ea476750ab)
 
 ## 📋 Sobre o Projeto
 
@@ -42,34 +59,7 @@ O objetivo é consolidar os conhecimentos adquiridos, abordar práticas de model
 
 ---
 
-## 📚 Tecnologias e Conceitos Aplicados
-
-### 🔑 Linguagem e Frameworks
-- **Java**
-- **Spring Framework**
-  - Spring Boot Core
-  - Spring Data JPA
-  - Spring Security
-  - Swagger (Documentação)
-  - Bean Validation (JSR 380)
-  
-### 📊 Banco de Dados
-- Banco Relacional (Modelagem de dados)
-- SQL (DML, DDL, DQL)
-- Transações (BEGIN, COMMIT, ROLLBACK)
-- Procedures, Funções e Triggers
-- Índices
-
-### 📌 Outros Conceitos
-- POO (Herança, Polimorfismo, Encapsulamento, Abstração)
-- APIs RESTful
-- JWT (JSON Web Token)
-- Hibernate (ORM)
-- JDBC (Java Database Connectivity)
-
----
-
-## 📂 Estrutura do Projeto
+## 📂 Estrutura da API
 
 A aplicação segue uma abordagem modular e organizada, contemplando:
 - **Modelagem de Dados**: Baseada no padrão relacional.
@@ -80,16 +70,12 @@ A aplicação segue uma abordagem modular e organizada, contemplando:
 - **Segurança**:
   - Spring Security com autenticação via JWT.
 
----
-
-## 🎯 Desafios e Avaliação
-
 ### Objetivos do Desafio
 - **Construir a API** de cadastro de endereços com funcionalidades completas.
 - **Trabalhar com múltiplos relacionamentos** entre entidades.
 - **Aplicar boas práticas** em modelagem de dados e organização do código.
 
-### Critérios de Avaliação
+### Critérios 
 - Resolução do problema
 - Qualidade do código
 - Apresentação do sistema
@@ -97,39 +83,48 @@ A aplicação segue uma abordagem modular e organizada, contemplando:
 
 ---
 
-## 🤝 Contribuição
+![BannerVideoTour](https://github.com/user-attachments/assets/5410c0aa-ee70-4f58-b9de-b759baad1a3e)
 
-Contribuições são bem-vindas! Siga os passos abaixo para colaborar:
+## 📌 Tecnologias e Conceitos Aplicados API
 
-1. Fork o repositório
-2. Crie uma branch com sua feature: `git checkout -b minha-feature`
-3. Faça commit das alterações: `git commit -m 'Adicionei uma nova feature'`
-4. Envie a branch: `git push origin minha-feature`
-5. Abra um Pull Request
+| **Categoria**              | **Tecnologias e Conceitos** | **Badges** |
+|---------------------------|----------------------------|------------|
+| **Linguagem e Frameworks** | Java, Spring Boot Core, Spring Data JPA, Spring Security, Swagger (Documentação), Bean Validation (JSR 380) | ![Java](https://img.shields.io/badge/java-black.svg?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring_boot-black.svg?style=flat-square&logo=spring&logoColor=white) ![Swagger](https://img.shields.io/badge/swagger-black.svg?style=flat-square&logo=swagger&logoColor=white) |
+| **Banco de Dados**       | Banco Relacional (Modelagem de dados), SQL (DML, DDL, DQL), Transações (BEGIN, COMMIT, ROLLBACK), Procedures, Funções e Triggers, Índices | ![PostgreSQL](https://img.shields.io/badge/postgresql-black.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-black.svg?style=flat-square&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/sql-black.svg?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **Outros Conceitos**      | POO (Herança, Polimorfismo, Encapsulamento, Abstração), APIs RESTful, JWT (JSON Web Token), Hibernate (ORM), JDBC (Java Database Connectivity) | ![OOP](https://img.shields.io/badge/oop-black.svg?style=flat-square&logo=java&logoColor=white) ![JWT](https://img.shields.io/badge/jwt-black.svg?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Hibernate](https://img.shields.io/badge/hibernate-black.svg?style=flat-square&logo=hibernate&logoColor=white) |
+
+
+---
+<div align="center">
    
+![Gif Banner Top](https://github.com/user-attachments/assets/27449dd6-6112-46bf-8815-e51074a7bc21)
+
+</div>
+
+<div align="center">
+   
+[![Youtube Badge](https://img.shields.io/badge/-AlineSilva-black?style=flat-square&logo=youtube&logoColor=white&link=https://youtu.be/ewg-YlAz2FQ)](https://youtu.be/ewg-YlAz2FQ)
+[![Figma](https://img.shields.io/badge/figma-black.svg?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/proto/qyyP7NAxYQ74uK41qh5LK9/GerenciadorApp?node-id=21-2804&t=cfufQFOyWlgCrMvc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+[![Notion](https://img.shields.io/badge/notion-black.svg?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Guia-de-Planejamento-Projeto-Spring-1429f9faccaa80659012d27096b42499)
+
+</div>
+
+<div align="center">
+
+| **Categoria**          | **Referências e Materiais de Apoio**                                                                                   |
+|------------------------|------------------------------------------------------------------------------------------------------------------------|
+| **Curso de Base**      | [Spring Boot Expert: JPA, RESTFul API, Security, JWT](https://www.udemy.com/course/spring-boot-expert/learn/lecture/17801164) |
+| **Apoio Técnico**      | - [Guia de Produção do Projeto](https://www.notion.so/Guia-de-Produ-o-do-Projeto-1429f9faccaa805a9549d6414ea4b731?pvs=21) |
+|                        | - [Guia de Testes do Projeto Spring](https://www.notion.so/Guia-de-Testes-do-Projeto-Spring-1459f9faccaa8091849cede6983d80b2?pvs=21) |
+|                        | - [Anotações de Apoio Sobre Java](https://www.notion.so/Anota-es-de-Apoio-Sobre-Java-1429f9faccaa80a8b944ec8eac19f764?pvs=21) |
+| **Links Úteis**        | - **SQL**: [W3Schools SQL Guide](https://www.w3schools.com/sql/default.asp)                                           |
+|                        | - **Java**: [W3Schools Java Guide](https://www.w3schools.com/java/default.asp)                                         |
+
+</div>
+
 ---
 
-## 📄 Referências e Materiais de Apoio
+![PreviewLayoutMixAll](https://github.com/user-attachments/assets/97ff1fe3-d1f5-4f56-969a-f627de47a81f)
 
-### Curso de Base
-[Spring Boot Expert: JPA, RESTFul API, Security, JWT](https://www.udemy.com/course/spring-boot-expert/learn/lecture/17801164)
 
-### Apoio Técnico
-- [Guia de Produção do Projeto](https://www.notion.so/Guia-de-Produ-o-do-Projeto-1429f9faccaa805a9549d6414ea4b731?pvs=21)
-- [Guia de Testes do Projeto Spring](https://www.notion.so/Guia-de-Testes-do-Projeto-Spring-1459f9faccaa8091849cede6983d80b2?pvs=21)
-- [Anotações de Apoio Sobre Java](https://www.notion.so/Anota-es-de-Apoio-Sobre-Java-1429f9faccaa80a8b944ec8eac19f764?pvs=21)
 
-### Links Úteis
-- **SQL**: [W3Schools SQL Guide](https://www.w3schools.com/sql/default.asp)
-- **Java**: [W3Schools Java Guide](https://www.w3schools.com/java/default.asp)
-
----
-
-## 👩‍💻 Autor(a)
-
-**Aline A. Silva**  
-Graduanda em Ciência da Computação - 6º Período  
-☕ Estudando Java pela EBAC  
-[LinkedIn](http://www.linkedin.com/in/alinealv-silv) | [GitHub](https://github.com/AlineSilv)
-
----

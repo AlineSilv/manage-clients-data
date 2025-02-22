@@ -94,7 +94,22 @@ A aplicação segue uma abordagem modular e organizada, contemplando:
 | **Outros Conceitos**      | POO (Herança, Polimorfismo, Encapsulamento, Abstração), APIs RESTful, JWT (JSON Web Token), Hibernate (ORM), JDBC (Java Database Connectivity) | ![OOP](https://img.shields.io/badge/oop-black.svg?style=flat-square&logo=java&logoColor=white) ![JWT](https://img.shields.io/badge/jwt-black.svg?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Hibernate](https://img.shields.io/badge/hibernate-black.svg?style=flat-square&logo=hibernate&logoColor=white) |
 
 
+## 📌 Tecnologias e Ferramentas Frontend
+
+| **Tecnologia**           | **Descrição**                                                                 | **Badge** |
+|-------------------------|-----------------------------------------------------------------------------|----------|
+| **React**              | Biblioteca para construção de interfaces reativas.                          | ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&logoColor=white) |
+| **TypeScript**         | Tipagem estática para JavaScript, garantindo mais segurança e produtividade. | ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=white) |
+| **Styled Components**  | Solução para estilização utilizando CSS-in-JS.                              | ![Styled Components](https://img.shields.io/badge/-Styled%20Components-black?style=flat&logo=styled-components&logoColor=white) |
+| **React Router Dom**   | Gerenciamento de rotas no front-end.                                        | ![React Router](https://img.shields.io/badge/-React%20Router-black?style=flat&logo=react-router&logoColor=white) |
+| **React Query**        | Gerenciamento de estado remoto com foco em requisições.                    | ![React Query](https://img.shields.io/badge/-React%20Query-black?style=flat&logo=react-query&logoColor=white) |
+| **React Hook Form**    | Gerenciamento de formulários leve e flexível.                              | ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-black?style=flat&logo=react-hook-form&logoColor=white) |
+| **Zod**               | Biblioteca para validação de dados.                                         | ![Zod](https://img.shields.io/badge/-Zod-black?style=flat&logoColor=white) |
+| **Axios**             | Cliente HTTP para comunicação com APIs.                                     | ![Axios](https://img.shields.io/badge/-Axios-black?style=flat&logo=axios&logoColor=white) |
+
+
 ---
+
 <div align="center">
    
 ![Gif Banner Top](https://github.com/user-attachments/assets/27449dd6-6112-46bf-8815-e51074a7bc21)

@@ -2,7 +2,12 @@
 
 <div align="center">
    
-[![LinkedIn](https://img.shields.io/badge/linkedin-black.svg?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/alinealv-silv) [![GitHub](https://img.shields.io/badge/github-black.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/AlineSilv) [![Gmail Badge](https://img.shields.io/badge/-alinealv.silv@gmail.com-181717?style=flat-square&logo=Gmail&logoColor=white)](mailto:alinealv.silv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-black.svg?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/alinealv-silv) 
+[![GitHub](https://img.shields.io/badge/github-black.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/AlineSilv) 
+![Stars](https://img.shields.io/github/stars/AlineSilv/manage-clients-data?style=flat-square&labelColor=343b41) 
+![Forks](https://img.shields.io/github/forks/AlineSilv/manage-clients-data?style=flat-square&labelColor=343b41) 
+![Commits](https://img.shields.io/github/commit-activity/m/AlineSilv/manage-clients-data?style=flat-square&labelColor=343b41)
+[![Gmail Badge](https://img.shields.io/badge/-alinealv.silv@gmail.com-181717?style=flat-square&logo=Gmail&logoColor=white)](mailto:alinealv.silv@gmail.com)
 
 </div>
 
